@@ -3,7 +3,7 @@
 # copyright and licensing details.
 {
     'name': 'Automatic Task Duration',
-    'version': '12.0.1.0.0',
+    'version': '14.0.1.0.0',
     'category': 'Project',
     'summary': '''
         Calculates project task duration automatically.
@@ -16,6 +16,7 @@
     ],
     'website': 'www.aktivsoftware.com',
     'data': [
+        'security/ir.model.access.csv',
         'views/project_timesheet_view.xml',
         'wizards/task_entry_view.xml'
     ],

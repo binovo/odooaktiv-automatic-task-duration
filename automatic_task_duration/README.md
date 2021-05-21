@@ -1,9 +1,9 @@
 Project Task Timer
 ------------------------------------
 
-Odoo Version : Odoo 12.0 Community Master
+Odoo Version : Odoo 14.0 Community
 
-Installation 
+Installation
 -------------------------------------
 Install the Application => Apps -> Project Task Timer
 
